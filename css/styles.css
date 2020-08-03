@@ -1,0 +1,25 @@
+body {
+  background-color: #eeeeee;
+}
+
+ul {
+    text-align: : center;
+    list-style-position: inside;
+}
+
+h1 {
+  color: #00adb5;
+}
+
+h2 {
+  color: #393e46;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #00adb5;
+  border-width: 10px;
+  height: 0px;
+  width: 5%;
+}
